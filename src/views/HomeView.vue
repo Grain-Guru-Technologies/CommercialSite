@@ -21,11 +21,11 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-7 col-lg-7">
-                                <span class="tagline">Welcome to Agriculture Farm</span>
-                                <h2><span>Agriculture</span> <br>
-                                    & Eco Farming</h2>
-                                <p>There are many of passages of lorem Ipsum, but the majori have <br> suffered alteration
-                                    in some form.</p>
+                                <span class="tagline">Welcome to GrainGuru Technologies Inc.</span>
+                                <h2><span>Revolutionizing </span> <br>
+                                    Grain Storage Management Using Robotic Solutions</h2>
+                                <p>Transforming grain storage with cutting-edge robotic solutions.
+                                    Ensuring efficiency, safety, and quality like never before.</p>
                                 <a href="#" class=" thm-btn">Discover More</a>
                                 <!-- /.thm-btn dynamic-radius -->
                             </div><!-- /.col-lg-7 text-right -->
@@ -39,11 +39,27 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xl-7 col-lg-7">
-                                <span class="tagline">Welcome to Agriculture Farm</span>
-                                <h2><span>Agriculture</span><br>
-                                    & Eco Farming</h2>
-                                <p>There are many of passages of lorem Ipsum, but the majori have <br> suffered alteration
-                                    in some form.</p>
+                                <span class="tagline">Smart Technology Integration</span>
+                                <h2><span> Real-Time Monitoring</span><br>
+                                    Utilizing AI and Robotics for Real-Time Grain Monitoring</h2>
+                                <p>Tracks temperature, humidity, and grain movement, allowing for proactive management and quick responses to any deviations.</p>
+                                <a href="#" class=" thm-btn">Discover More</a>
+                                <!-- /.thm-btn dynamic-radius -->
+                            </div><!-- /.col-lg-7 text-right -->
+                        </div><!-- /.row -->
+                    </div><!-- /.container -->
+                </div><!-- /.swiper-slide -->
+                <div class="swiper-slide">
+                    <div class="image-layer" style="background-image: url(assets/images/main-slider/main-slider-3-1.jpg);">
+                    </div>
+                    <!-- /.image-layer -->
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-7 col-lg-7">
+                                <span class="tagline">Efficiency Through Automation</span>
+                                <h2><span> Enhancing Efficiency</span><br>
+                                     with Automated Robotic Solutions</h2>
+                                <p>Increases operational speed, reduces downtime, and improves overall productivity in storage facilities.</p>
                                 <a href="#" class=" thm-btn">Discover More</a>
                                 <!-- /.thm-btn dynamic-radius -->
                             </div><!-- /.col-lg-7 text-right -->
